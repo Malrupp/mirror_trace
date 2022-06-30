@@ -38,8 +38,8 @@ var materials = {
 	
 
 	//image dimensions
-	var mywidth = 400;
-	var myheight = 300;
+	var mywidth = 600;
+	var myheight = 400;
 
 	var score = 0;
 	var timeDiff = 0;
