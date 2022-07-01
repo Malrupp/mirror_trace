@@ -18,10 +18,10 @@
 var materials = {
 		'mirror' : [false, false, false, false, false, false],
 		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial2.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial3.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial2.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial3.png"],
-		'xstarts' : [15,		40,		383,		27, 40, 280],
-		'ystarts' : [255,	47,		276,		275, 45, 276],
+		'xstarts' : [0,		40,		383,		27, 40, 280],
+		'ystarts' : [0,	47,		276,		275, 45, 276],
 		'xends' :   [370,	370,	33,			370, 368, 33],
-		'yends' :    [25,		265,	250,		28,267,250]
+		'yends' :    [20,		265,	250,		28,267,250]
 	}
 	
 	//	'xstarts' : [47,	27,		40,		280,		40,		383,	352],
