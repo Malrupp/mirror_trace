@@ -16,13 +16,12 @@
 // the images posted on github all have the same total line length and 15 segments 
 
 var materials = {
-		'mirror' : [false, false, false, false, false, false, false, false],
-		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial1a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png"],
-		'xstarts' : [47,	27,		40,		80,		27, 40, 280, 33],
-		'ystarts' : [256,	275,	45,		76,		275, 45, 276, 250],
-		'xends' :   [344,	370,	368,	33,			370, 368, 33, 47],
-		'yends' :    [260,	28,		267,	250,		28,267,250, 256]
-	}
+		'mirror' : [false, false, false],
+		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png"],
+		'xstarts' : [47,	27,		40],
+		'ystarts' : [256,	275,	45],
+		'xends' :   [344,	370,	368],
+		'yends' :    [260,	28,		267]
 	
 	//	'xstarts' : [47,	27,		40,		280,		40,		383,	352],
 //		'ystarts' : [256,	275,	45,		276,		45,		265,	28],
