@@ -17,7 +17,7 @@
 
 var materials = {
 		'mirror' : [false, false, false],
-		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png"],
+		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial2.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial3.png"],
 		'xstarts' : [47,	27,		40],
 		'ystarts' : [256,	275,	45],
 		'xends' :   [344,	370,	368],
