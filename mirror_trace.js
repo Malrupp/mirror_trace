@@ -17,7 +17,7 @@
 
 var materials = {
 		'mirror' : [false, false, false, false, false, false, false, false],
-		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial1a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trialh3.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial1a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/sample.png"],
+		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial1a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial2a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/Trial1a.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial5a.png"],
 		'xstarts' : [47,	27,		40,		80,		27, 40, 280, 33],
 		'ystarts' : [256,	275,	45,		76,		275, 45, 276, 250],
 		'xends' :   [344,	370,	368,	33,			370, 368, 33, 47],
