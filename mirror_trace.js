@@ -22,6 +22,24 @@ var materials = {
 		'ystarts' : [256,	275,	45],
 		'xends' :   [344,	370,	368],
 		'yends' :   [260,	28,		267]
+}
+		
+//var materials = {
+//		'mirror' : [false, false, false],
+//		'file_names' : ["https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial1.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial2.png", "https://raw.githubusercontent.com/Malrupp/mirror_trace/master/trial3.png"],
+//		'xstarts' : [47,	27,		40],
+//		'ystarts' : [256,	275,	45],
+//		'xends' :   [344,	370,	368],
+//		'yends' :   [260,	28,		267]		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	
 	//	'xstarts' : [47,	27,		40,		280,		40,		383,	352],
 //		'ystarts' : [256,	275,	45,		276,		45,		265,	28],
